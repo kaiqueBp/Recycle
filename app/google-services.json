@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76679944852",
+    "project_id": "atividade-10d14",
+    "storage_bucket": "atividade-10d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76679944852:android:48ea79e17640cce225b281",
+        "android_client_info": {
+          "package_name": "com.kaique.atividade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQdcjGj7wGMuKOySk3BzGwsOzOfmszDIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
