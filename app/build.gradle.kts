@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.kaique.atividade"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.kaique.atividade"
